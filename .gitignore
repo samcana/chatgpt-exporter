@@ -1,0 +1,29 @@
+# Exported private ChatGPT data
+chatgpt_export/
+chatgpt_export_TEST_FULL/
+chatgpt_project_export/
+exports/
+*.zip
+
+# Secrets / credentials
+.env
+*.env
+cookies.txt
+tokens.txt
+session-token.txt
+session_tokens.txt
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
